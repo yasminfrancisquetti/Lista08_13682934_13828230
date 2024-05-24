@@ -1,11 +1,12 @@
 package ex01;
 
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.math.BigInteger;
 
-public class FatorialInterface {
+public class FatorialInterface extends JFrame {
     private JFrame frame;
     private JTextField inputField;
     private JButton calculateButton;

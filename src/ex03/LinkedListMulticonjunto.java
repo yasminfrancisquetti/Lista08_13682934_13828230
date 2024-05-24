@@ -1,7 +1,6 @@
 package ex03;
 
 import java.util.LinkedList;
-import java.util.List;
 
 public class LinkedListMulticonjunto<T> {
 	private LinkedList<T> linkedList;
